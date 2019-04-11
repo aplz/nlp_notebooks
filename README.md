@@ -1,6 +1,6 @@
 # About
 
-## [NLP with elasticserach](elasticsearch-nlp.ipynb)
+## [NLP with elasticsearch](elasticsearch-nlp.ipynb)
 A demonstration of tokenization with elasticsearch analyzers
 
 ## [textblob_vs_spacy](textblob_vs_spacy.ipynb)
